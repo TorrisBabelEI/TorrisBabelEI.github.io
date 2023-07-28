@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi there! I'm Yuxuan Fang, a master's student in Electrical Engineering at the University of Michigan, Ann Arbor. I'm currently a member of the [LATTICE Group](https://sites.google.com/umich.edu/lattice/people) in Aerospace Engineering.
 
-![Just a headshot](https://github.com/TorrisBabelEI/TorrisBabelEI.github.io/blob/master/images/headshot.jpg)
+![Just a headshot](https://cdn.staticaly.com/gh/TorrisBabelEI/picx-images-hosting@master/20230728/headshot.2qb3wf50g1i0.jpg)
 
 ### Research Interests
 
