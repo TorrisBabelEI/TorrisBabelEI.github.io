@@ -12,7 +12,7 @@ Hi there! I'm Yuxuan Fang, a master's student in Electrical Engineering at the U
 
 ### Research Interests
 
-My research interests are various, which include but are not confined to **controls, formal methods, and their applications in robotics and cyber-physical systems**. Please don't hesitate to contact me if you have any brilliant ideas!
+My research interests are various, which include but are not confined to **formal methods in control and optimization and their applications in robotics and cyber-physical systems**. Please don't hesitate to contact me if you have any brilliant ideas!
 
 ### Curriculum Vitae
 
