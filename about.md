@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi there! I'm Yuxuan Fang, a master's student in Electrical Engineering at the University of Michigan, Ann Arbor. I'm currently a member of the [LATTICE Group](https://sites.google.com/umich.edu/lattice/people) in Aerospace Engineering.
+Hi there! I'm Yuxuan Fang, a PhD student in School of Aeronautics and Astronautics of Purdue University. I'm currently a member of the [Autonomous & Intelligent Multi-agent Systems (AIMS) Lab](https://engineering.purdue.edu/AIMS).
 
 <div align = center>
 <img src="https://cdn.statically.io/gh/TorrisBabelEI/picx-images-hosting@master/FirstPortrait.3ny7rhyqimy0.jpg" height="50%" width="50%"/>
@@ -12,7 +12,7 @@ Hi there! I'm Yuxuan Fang, a master's student in Electrical Engineering at the U
 
 ### Research Interests
 
-My research interests are various, which include but are not confined to **formal methods in control and optimization and their applications in robotics and cyber-physical systems**. Please don't hesitate to contact me if you have any brilliant ideas!
+My research interests vary, which include but are not confined to **control, optimization, and learning**. I'm currently working on a project related to Human-Machine Interaction.
 
 ### Curriculum Vitae
 
@@ -20,4 +20,4 @@ Please click [here](https://github.com/TorrisBabelEI/TorrisBabelEI.github.io/blo
 
 ### Contact me
 
-[yuxuanf@umich.edu](mailto:yuxuanf@umich.edu)
+[fang394@purdue.edu](mailto:fang394@purdue.edu)
